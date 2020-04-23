@@ -2,7 +2,7 @@
 Krunkga automatically makes you good at krunker.io! With aimbot, esp, bhopping, auto slide and more!
 
 # How to install the extension?
-First: Download **[Click here]**(https://github.com/iiGozo/krunkga/releases/download/1.0.0/Krunkga.zip)
+First: Download [Click here](https://github.com/iiGozo/krunkga/releases/download/1.0.0/Krunkga.zip)
 Then: Install it through chrome://extensions/ ([Tutorial](https://www.youtube.com/watch?v=hIRX1dpfqHc))
 
 
