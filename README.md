@@ -11,4 +11,4 @@ First, if you have krunker.io reload the page after adding the extension, then u
 # What makes this so special?
 We update the plugin every patch, it's free and no ad's viruses or anything!
 # Notes + Credit
-We are not responsible for you being banned or have any issues. All credit goes to 0x111111 on github, developed by him.
+We are not responsible for you being banned or have any issues. 
